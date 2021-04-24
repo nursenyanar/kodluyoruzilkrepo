@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](http://kodluyoruz.org) Front-End Eğitiminde oluşturduğum
 
 # Image
 
-![](https://res.cloudinary.com/danielkapper-com/image/upload/v1577156572/logo-one.png)
+![](/images/google.png)
 
 # Installation
 
